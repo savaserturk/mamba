@@ -1,5 +1,0 @@
-﻿  MainScanner.c
-C:\Users\Home\Desktop\Compiler\CompilerAssignment\code\MainScanner.c(68,34): warning C4131: 'tokenizer': uses old-style declarator
-  Scanner.c
-  Generating Code...
-  mamba.vcxproj -> C:\Users\Home\source\repos\mamba\x64\Debug\mamba.exe
