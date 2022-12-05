@@ -1,0 +1,16 @@
+# MAMBA Compiler Parser Testing Example 5 #
+
+def sum(a, b):
+	value = a + b
+    return (value)
+
+a = 0
+b = 0
+print("Enter first number: ")
+input(a)
+print("Enter second number: ")
+input(b)
+
+c = sum(a,  b)
+
+print("Sum of ", a, " and ", b, " is ", c)

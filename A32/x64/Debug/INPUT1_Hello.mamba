@@ -1,0 +1,6 @@
+# MAMBA Compiler Parser Testing Example 2#
+
+def main():
+	print("Hello world!")
+	
+main()
